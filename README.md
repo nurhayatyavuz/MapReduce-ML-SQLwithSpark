@@ -66,3 +66,8 @@ It contains 150 samples with 4 features each (sepal length, sepal width, petal l
 Computer Engineering Graduate |  MSc in Intelligent Systems Engineering   
 [GitHub](https://github.com/ynurhayatyavuz)
 
+## Code PDF
+[iris-mapreduce.pdf](https://github.com/user-attachments/files/23728794/iris-mapreduce.pdf)
+[iris-siniflandirma.pdf](https://github.com/user-attachments/files/23728793/iris-siniflandirma.pdf)
+[iris-sqluygulama.pdf](https://github.com/user-attachments/files/23728792/iris-sqluygulama.pdf)
+
